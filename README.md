@@ -1,5 +1,5 @@
-# Excel_Project_FNP
-Ferns and Petals Sales Analysis
+## Excel_Project_FNP
+## Ferns and Petals Sales Analysis
 ![Spotify Logo](https://github.com/GeniXira/Excel_Project_FNP/blob/main/img%20(2).png)
 
 ## Problem Statement: 
@@ -9,8 +9,7 @@ Anniversaries. The dataset contains details about the products, orders, customer
 dates. Your task is to analyze this dataset to uncover key insights related to sales trends,
 customer behavior, and product performance.
 
-## Create a dashboard and answer the following key business questions to help the company
-## improve its sales strategy and optimize customer satisfaction:
+## Create a dashboard and answer the following key business questions to help the company improve its sales strategy and optimize customer satisfaction:
 
 1. Total Revenue: Identify the overall revenue.
 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
